@@ -1,0 +1,149 @@
+{
+    "name": "English",
+    "slug": "en",
+    "is_active": "1",
+    "language_code": "en",
+    "text_direction": "LTR",
+    "addon": "logicboxes",
+    "Strings": [
+        {
+            "slug": "logicboxes_settings",
+            "text": "Logicboxes Settings"
+        },
+        {
+            "slug": "logicboxes_eligibility_type",
+            "text": "Eligibility ID Type"
+        },
+        {
+            "slug": "logicboxes_eligibility_id",
+            "text": "Eligibility ID"
+        },
+        {
+            "slug": "logicboxes_eligibility_reason",
+            "text": "Eligibility Reason"
+        },
+        {
+            "slug": "logicboxes_eligibility_reason_exact_match",
+            "text": "Domain Name is an Exact Match OR Abbreviation OR Acronym of your Entity or Trading Name."
+        },
+        {
+            "slug": "logicboxes_eligibility_reason_close_connection",
+            "text": "Close and substantial connection between the domain name and the operations of your Entity."
+        },
+        {
+            "slug": "logicboxes_au_warranty",
+            "text": "By submitting this application, I confirm that I am eligible to hold the domain name set out in this application, and that all information provided in this application is true, complete and correct and is not misleading in any way. If any of the information is later found not to be true, or is incomplete, incorrect, or misleading in any way or if this application is submitted in bad faith, the domain name license can be cancelled and can lead to a permanent loss of the use of the domain name."
+        },
+        {
+            "slug": "logicboxes_au_agree_to_warranty",
+            "text": "I agree to the AU Domain Warranty."
+        },
+        {
+            "slug": "logicboxes_australian_company_number",
+            "text": "Australian Company Number (ACN)"
+        },
+        {
+            "slug": "logicboxes_australian_bus_no",
+            "text": "Australian Business Number (ABN)"
+        },
+        {
+            "slug": "logicboxes_victoria_bus_no",
+            "text": "Victoria Business Number (VIC BN)"
+        },
+        {
+            "slug": "logicboxes_new_south_wales_bus_no",
+            "text": "New South Wales Business Number (NSW BN)"
+        },
+        {
+            "slug": "logicboxes_south_australia_bus_no",
+            "text": "South Australia Business Number (SA BN)"
+        },
+        {
+            "slug": "logicboxes_northern_territory_bus_no",
+            "text": "Norther Territory Business Number (NT BN)"
+        },
+        {
+            "slug": "logicboxes_western_australia_bus_no",
+            "text": "Western Australia Business Number (WA BN)"
+        },
+        {
+            "slug": "logicboxes_tasmania_bus_no",
+            "text": "Tasmania Business Number (TAS BN)"
+        },
+        {
+            "slug": "logicboxes_australian_capital_territory_bus_no",
+            "text": "Australian Capital Territory Business Number (ACT BN)"
+        },
+        {
+            "slug": "logicboxes_queensland_bus_no",
+            "text": "Queensland Business number (QLD BN)"
+        },
+        {
+            "slug": "logicboxes_trademark_no",
+            "text": "Trademark"
+        },
+        {
+            "slug": "logicboxes_australian_registered_body_no",
+            "text": "Australian Registered Body Number (ARBN)"
+        },
+        {
+            "slug": "logicboxes_other",
+            "text": "Other"
+        },
+        {
+            "slug": "logicboxes_entity_type",
+            "text": "Entity Type"
+        },
+        {
+            "slug": "logicboxes_registrant_name",
+            "text": "Registrant Name"
+        },
+        {
+            "slug": "logicboxes_trademark_owner",
+            "text": "Trademark Owner"
+        },
+        {
+            "slug": "logicboxes_pending_trademark_owner",
+            "text": "Pending Trademark Owner"
+        },
+        {
+            "slug": "logicboxes_domain_hosted_in_china",
+            "text": "Is the domain hosted in China?"
+        },
+        {
+            "slug": "logicboxes_agree_hosting_outside_china",
+            "text": "I confirm that I will not be hosting my domain name(s) on servers in Mainland China. I accept full responsibility for any consequences caused by the violation of the commitment."
+        },
+        {
+            "slug": "logicboxes_agree_hosting_china",
+            "text": "I confirm that I will submit the ICP MIIT no. for CN domain name(s), if they are being hosted on servers in Mainland China and that my domain will not be active until this has been processed. I accept full responsibility for any consequences caused by the violation of the commitment."
+        },
+        {
+            "slug": "logicboxes_publish_whois",
+            "text": "Publish Contact Details on the public WHOIS database?"
+        },
+        {
+            "slug": "logicboxes_individual",
+            "text": "Individual"
+        },
+        {
+            "slug": "logicboxes_organization",
+            "text": "Organization\/Business"
+        },
+        {
+            "slug": "logicboxes_api_key",
+            "text": "Logicboxes API Key"
+        },
+        {
+            "slug": "logicboxes_reseller_id",
+            "text": "Logicboxes Reseller ID"
+        },
+        {
+            "slug": "logicboxes_enable_sandbox",
+            "text": "Enable Sandbox Mode"
+        }
+    ],
+    "EmailTemplates": [
+
+    ]
+}

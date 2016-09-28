@@ -1,0 +1,12 @@
+{
+    "name": "whsuite/addon-logicboxes",
+    "type": "whsuite-addon",
+    "description": "Logicboxes plugin for use within WHSuite",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "WHSuite",
+            "email": "info@whsuite.com"
+        }
+    ]
+}
